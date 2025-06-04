@@ -3,23 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-.menus{
-    display: flex;
-    justify-content: space-around;
+body{
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+    font-size: 1rem;
 }
-
-.menu_externo ul {
-    display: flex;
-    gap: 20px;
-    list-style: none;
-}
-
-.menu_interno ul {
-    display: flex;
-    gap: 20px;
-    list-style: none;
-}
-
 header {
     display: flex;
     width: 100%;
@@ -27,5 +15,22 @@ header {
     padding: 1rem;
     position: relative;
     justify-content: center;
-
+}
+.menus {
+    display: flex;
+    justify-content: space-around;
+}
+.menu_externo ul,
+.menu_interno ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.menu_externo li a,
+.menu_interno li a {
+    color: azure;
+    text-decoration: none;
+    font-size: 1.25rem;
+    padding: 10px 15px;
+    border-radius: 5px;
 }
