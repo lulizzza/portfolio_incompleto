@@ -7,3 +7,13 @@
     display: flex;
     justify-content: space-around;
 }
+
+header {
+    display: flex;
+    width: 100%;
+    background-color: blueviolet;
+    padding: 1rem;
+    position: relative;
+    justify-content: center;
+
+}
