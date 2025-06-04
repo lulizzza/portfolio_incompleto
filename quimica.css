@@ -11,7 +11,7 @@
 .menu_externo ul {
     display: flex;
     gap: 20px;
-    text-decoration: none;
+    list-style: none;
 }
 
 header {
