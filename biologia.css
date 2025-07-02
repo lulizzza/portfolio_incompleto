@@ -5,10 +5,10 @@
 }
 
 :root {
-    --preto: #b5db95;
-    --marinho: #97b948;
+    --preto: #000000;
+    --marinho: #493D9E;
     --amarelo-claro: #FFF2AF;
-    --roxo-claro: #2b682b;
+    --roxo-claro: #B2A5FF;
     --verde: #99BC85;
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
@@ -186,17 +186,6 @@ h1 {
 .home a {
     font-size: 2rem;
     color: var(--verde);
-}
-
-.conteudo ul li .block {
-    display: none;
-}
-
-.conteudo ul li:hover .block {
-    display: block;
-    text-align: justify;
-    color: var(--marinho);
-    margin-bottom: 5px;
 }
 
 .opacidade {
