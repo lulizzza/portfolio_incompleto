@@ -43,7 +43,7 @@ header {
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(none);
+    background-color: var( --amarelo-claro: #F7374F;);
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--roxo-claro);
