@@ -8,7 +8,7 @@
     --preto: #000000;
     --marinho: #522546;
     --amarelo-claro: #F7374F;
-    --roxo-claro: #B2A5FF;
+    --roxo-claro: #d61a1a;
     --verde: #522546;
     --azul-claro: #b84361;
     --branco: #FFFFFF;
@@ -43,7 +43,7 @@ header {
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(--preto);
+    background-color: var(none);
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--roxo-claro);
