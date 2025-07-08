@@ -6,10 +6,10 @@
 
 :root {
     --preto: #000000;
-    --marinho: #522546;
+    --marinho: #bb1212;
     --amarelo-claro: #F7374F;
     --roxo-claro: #0e0e0e;
-    --verde: #522546;
+    --verde: #f3474d;
     --azul-claro: #b84361;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
@@ -43,7 +43,7 @@ header {
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(#F7374F;);
+    background-color: var(--preto);
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(#F7374F);
