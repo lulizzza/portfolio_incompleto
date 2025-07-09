@@ -25,7 +25,7 @@ body {
 }
 
 header {
-    display: flex;
+    display: flex-end;
     width: 100%;
     background-color: var(--marinho);
     padding: 1rem;
