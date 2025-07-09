@@ -31,6 +31,7 @@ header {
     padding: 1rem;
     position: relative;
     justify-content: flex-end;
+    fle
 }
 
 
@@ -89,7 +90,7 @@ header {
     width: 80%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: end;
 }
 
 
