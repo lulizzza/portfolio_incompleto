@@ -89,8 +89,8 @@ header {
 .links-principais {
     width: 80%;
     display: flex;
-    justify-content: space-between;
-    align-items: end;
+    justify-content:end;
+    align-items: center;
 }
 
 
