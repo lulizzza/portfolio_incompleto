@@ -42,7 +42,7 @@ header {
 .botao-disciplinas {
     cursor: pointer;
     font-size: 2rem;
-    background: none;
+    background:#518d52;
     background-color: var(roxo-claro: #26bd4c;);
     border: none;
     padding: 1.05rem 1.5rem;
